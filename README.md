@@ -1,75 +1,58 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# hello-react-front-end
 
-# Project Name
+Set up a "Hello world" project with react as front-end
 
-> Description the project.
+This app was created with React
 
+# Link to Rails app
 
-## Built With
+https://github.com/fibini/Hello-Rails-back-end
 
-- Major languages
-- Frameworks
-- Technologies used
+## Built With:
 
-## Live Demo (if available)
+- React
+- Redux
 
-[Live Demo Link](https://livedemo.com)
+Prerequisites
 
+- NPM
+- Modern web browser
 
 ## Getting Started
+- To get a local copy of this project clone this repository or download the Zip folder:
+git clone https://github.com/fibini/hello-react-front-end
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- To get started, In the root directory run:
+npm install
 
+- Run react app in the Command Line:
+npm start
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
+- Then browse http://localhost:3000
 
 ### Usage
 
-### Run tests
+To edit this project:
 
-### Deployment
+- Open the repository you cloned with a code editor that you like.
+
+- Edit the code as you want.
+
+## Author:
+
+👤 **Fabien**
+
+- GitHub: [![GitHub Badge](https://img.shields.io/badge/-fibini-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/fibini)
+
+- Twitter: [![Twitter Badge](https://img.shields.io/badge/-Onenewpage1-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/Onenewpage1)
+
+- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-FabienBrathwaite-white?logo=LinkedIn&logoColor=1DA1F2&style=plastic)](https://www.linkedin.com/in/fabien-brathwaite/)
 
 
+## :star2: Show your support
 
-## Authors
+Give a :star: if you like my project!
 
-👤 **Author1**
+## :pencil: License
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT]
